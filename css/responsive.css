@@ -1,0 +1,236 @@
+@media only screen and (max-width: 1040px) and (min-width: 960px){
+    .nav-list{
+       flex-direction: column;
+    }
+
+    .navbar{
+       flex-direction: column;
+       height: 340px;
+       transition: all 0.7s ease-out;
+    }
+
+    .rightNav{
+       display: flex;
+       justify-content: center;
+       padding: 0 0;
+    }
+    .burger{
+       display: block;
+    }
+    .h-nav-resp{
+       height: 58px;
+    }
+    .v-class-resp{
+       opacity: 0%;
+    }
+    .section{
+       flex-direction: column-reverse;
+       text-align: center;
+       max-width: 90%;
+    }
+    .box-main{
+       max-width: 70%;
+    }
+    .form{
+       max-width: 70%;
+    }
+    .firstSection{
+      height: none;
+    }
+    .paras{
+      padding: 0;
+      width: 100%;
+    }
+} 
+
+@media only screen and (max-width: 960px) and (min-width: 808px){
+    .box-main{
+       max-width: 80%;
+    }
+    .nav-list{
+        flex-direction: column;
+     }
+ 
+     .navbar{
+        flex-direction: column;
+        height: 340px;
+        transition: all 0.7s ease-out;
+     }
+ 
+     .rightNav{
+        display: flex;
+        justify-content: center;
+        padding: 0 0;
+     }
+     .burger{
+        display: block;
+     }
+     .h-nav-resp{
+        height: 58px;
+     }
+     .v-class-resp{
+        opacity: 0%;
+     }
+     .section{
+        flex-direction: column-reverse;
+        text-align: center;
+        max-width: 90%;
+     }
+     .form{
+      max-width: 70%;
+     }
+     .firstSection{
+      height: fit-content;
+     }
+     .text-big{
+      padding-top: 50px;
+     }
+     .paras{
+      padding: 0;
+      width: 100%;
+    }
+}
+
+@media only screen and (max-width: 808px) and (min-width:433px){
+   .box-main{
+      max-width: 80%;
+   }
+   .nav-list{
+       flex-direction: column;
+    }
+
+    .navbar{
+       flex-direction: column;
+       height: 340px;
+       transition: all 0.7s ease-out;
+    }
+
+    .rightNav{
+       display: flex;
+       justify-content: center;
+       padding: 0 0;
+    }
+    .burger{
+       display: block;
+    }
+    .h-nav-resp{
+       height: 58px;
+    }
+    .v-class-resp{
+       opacity: 0%;
+    }
+    .section{
+       flex-direction: column-reverse;
+       text-align: center;
+       max-width: 90%;
+    }
+    .form{
+     max-width: 70%;
+    }
+    .firstSection{
+     height: fit-content;
+    }
+    .box-main{
+      flex-direction: column-reverse;
+    }
+    .text-big{
+      padding-top: 20px;
+    }
+    .btn2{
+      margin: 20px 15px;
+    }
+    .paras{
+      padding: 0;
+      width: 100%;
+    }
+    .secondhalf{
+      width: 60%;
+    }
+    .form-input{
+      font-size: 14px;
+    }
+    
+}
+
+@media only screen and (max-width: 433px){
+   .box-main{
+      max-width: 80%;
+   }
+   .nav-list{
+       flex-direction: column;
+    }
+
+    .navbar{
+       flex-direction: column;
+       height: 340px;
+       transition: all 0.7s ease-out;
+    }
+
+    .rightNav{
+       display: flex;
+       justify-content: center;
+       padding: 0 0;
+    }
+    .burger{
+       display: block;
+       top: 6px;
+    }
+    .h-nav-resp{
+       height: 40px;
+    }
+    .v-class-resp{
+       opacity: 0%;
+    }
+    .section{
+       flex-direction: column-reverse;
+       text-align: center;
+       max-width: 90%;
+    }
+    .form{
+     max-width: 70%;
+    }
+    .firstSection{
+     height: fit-content;
+    }
+    .box-main{
+      flex-direction: column-reverse;
+    }
+    .text-big{
+      padding-top: 20px;
+    }
+    .btn2{
+      margin: 20px 15px;
+    }
+    .btn{
+      font-size: 10px;
+    }
+    .text-big{
+      font-size: 25px;
+    }
+    .text-small{
+      font-size: 15px;
+    }
+    .btn2 {
+      margin: 10px 5px;
+    }
+    .thumbnail img{
+      width: 100%;
+    }
+    .paras{
+      padding: 0;
+      width: 100%;
+    }
+    .secondhalf{
+      width: 70%;
+    }
+    .form-input{
+      font-size: 10px;
+    }
+    .line{
+      width: 27px;
+      height: 3px;
+    }
+    .thumbnail{
+      max-width: 70%;
+    }
+}
